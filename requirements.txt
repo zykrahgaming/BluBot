@@ -1,1 +1,5 @@
-discord.py
+discord
+random
+operator
+asyncio
+time
