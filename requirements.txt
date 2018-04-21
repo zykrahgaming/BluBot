@@ -1,5 +1,4 @@
 discord
-random
 operator
 asyncio
 time
